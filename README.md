@@ -103,6 +103,7 @@ A centralised, congregated avenue to handle various donation methods for differe
 
 We are planning to make Fundle a holistic platform for fundraising and we already have a few ideas on how we would like to improve on the MVP. To mention some:
 
+- Fully integrate swap mechanism for deposits in the main donation QF pool to swap into Principal Token fUSDC given that it appreciates over time in terms of the underlying USDC & will generate more USDC for donation disbursement given that funds collected are only distributed upon the end of each `EPOCH`. The protocol will swap back to USDC upon distribution of QF pool donations.
 - A gamified way to incentivize users to recurringly donate to their chosen charity
 - An AA wallet factory to enable the central authority to generate special purpose-bound wallets for beneficiaries
 - A token-gated page where NPOs can communicate to their respective donors and boost engagement and transparency
