@@ -1,0 +1,12 @@
+[submodule "main"]
+	path = main
+	url = https://github.com/ETHSG-Fundle/.github.git
+[submodule "fe"]
+	path = fe
+	url = https://github.com/ETHSG-Fundle/fundle-fe.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/ETHSG-Fundle/Fundle-Contracts.git
+[submodule "subgraphs"]
+	path = subgraphs
+	url = https://github.com/ETHSG-Fundle/Fundle-Subgraph.git
